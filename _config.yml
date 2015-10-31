@@ -1,0 +1,23 @@
+name: pratt
+favicon: null
+layout_spectrum: 0.36790033150464296
+typography_spectrum: 0.63200514158234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8592035013716668
+  lightness: 0.16088649909943342
+  saturation: 0.7400656975805759
+  rhythmicContrast: 0.013795870821923018
+purpose: []
